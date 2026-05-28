@@ -21,6 +21,7 @@ public class GuiJavaFx extends Application {
 
         Scene scene = new Scene(label, screenBounds.getWidth()/1.5, screenBounds.getHeight()/1.5);
 
+
         stage.setScene(scene);
         stage.setTitle("EDI-Task");
 
