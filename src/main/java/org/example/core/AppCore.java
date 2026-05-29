@@ -1,7 +1,5 @@
-package org.example;
+package org.example.core;
 
-
-import org.example.core.ApplicationFramework;
 
 public class AppCore {
     public static void main(String[] args) {

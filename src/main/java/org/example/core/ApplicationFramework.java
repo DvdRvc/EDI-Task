@@ -2,6 +2,7 @@ package org.example.core;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.example.view.GuiJavaFx;
 
 @Getter
 @Setter
